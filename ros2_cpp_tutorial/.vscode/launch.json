@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "ROS2: Launch fs_agent",
+      "type": "ros",
+      "request": "launch",
+      // 절대 경로를 쓰면 workspaceFolder에 상관없이 잘 동작합니다.
+      "target": "/home/ros2_ws/install/ros2_cpp_tutorial/share/ros2_cpp_tutorial/launch/fs_agent_launch.py",
+      // 런치 명령을 실행할 작업 디렉터리
+      "cwd": "/home/ros2_ws"
+    }
+  ]
+}

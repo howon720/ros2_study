@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/howon/colcon_ws/install/open_manipulator_x_gui/include/**",
+        "/home/howon/colcon_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/howon/colcon_ws/install/dynamixel_hardware_interface/include/**",
+        "/home/howon/colcon_ws/install/dynamixel_sdk/include/**",
+        "/home/howon/colcon_ws/install/dynamixel_interfaces/include/**",
+        "/home/howon/turtlebot3_ws/install/turtlebot3_msgs/include/**",
+        "/home/howon/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/howon/turtlebot3_ws/install/dynamixel_sdk/include/**",
+        "/home/howon/ros2_ws/install/turtlebot3_me/include/**",
+        "/home/howon/ros2_ws/install/turtlebot3_gazebo/include/**",
+        "/home/howon/ros2_ws/install/turtlebot3_fake_node/include/**",
+        "/home/howon/ros2_ws/install/ros2_interfaces_tutorial/include/**",
+        "/home/howon/ros2_ws/install/mapf_dp_interfaces/include/**",
+        "/home/howon/ros2_ws/install/custom_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ros2",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}

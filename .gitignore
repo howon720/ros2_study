@@ -1,0 +1,11 @@
+build/
+install/
+log/
+**/build/
+**/install/
+**/log/
+**/__pycache__/
+**/*.pyc
+*.swp
+*.tmp
+.DS_Store
